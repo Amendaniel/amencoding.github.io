@@ -1,0 +1,51 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(photo-1588546506381-74592e9b8a2d.webp);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+color: aliceblue;
+}
+h1{
+    text-align: center;
+}
+#wow{
+    text-align: center;
+    font-style: bold;
+    font-weight: 300;
+}
+header{
+    padding: 10 px 0;
+    text-align: top;
+}    
+nav{
+    text-align: center;
+}
+nav ul{
+    list-style: none;
+    padding:0;
+}
+nav ul li {
+   display: inline;
+    margin: 0 10px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: aliceblue;
+}
+button{
+    padding :10px 20 px;
+    font-size: 1.2em;
+    background-color: red;
+    color:white;
+    border: none;
+    cursor: pointer;
+}
+button :hover{
+    background-color: red;
+}
+.hero{
+    text-align: center;
+}
